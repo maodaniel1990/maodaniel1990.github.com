@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: none
 title: Hello World!
 tagline: Supporting tagline
 ---
