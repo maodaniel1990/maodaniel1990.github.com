@@ -822,7 +822,7 @@ function myFunc() {
 </body>
 
 </html>
-</html>
+
 
 <ul class="posts">
   {% for post in site.posts %}
